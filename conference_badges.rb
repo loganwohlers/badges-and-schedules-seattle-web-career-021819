@@ -12,6 +12,7 @@ end
 
 def assign_rooms(arr)
   a=[]
+  n=1
   arr.each
 end
   
