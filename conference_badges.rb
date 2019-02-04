@@ -23,11 +23,11 @@ end
 def printer(arr)
   a1=batch_badge_creator(arr)
   a1.each do |name|
-    puts "${name}"
+    puts name
   end
   a2=assign_rooms(arr)
   a2.each do|name|
-    puts "${name}"
+    puts name
   end
 
 end
