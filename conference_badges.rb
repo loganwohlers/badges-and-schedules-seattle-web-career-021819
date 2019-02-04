@@ -5,5 +5,5 @@ end
 def batch_badge_creator (arr)
   a=[]
   arr.each do |name|
-    a.push(na)
+    a.push(badge_maker(name))
 end
