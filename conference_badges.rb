@@ -4,5 +4,6 @@ end
 
 def batch_badge_creator (arr)
   a=[]
-  
+  arr.each do |name|
+    
 end
